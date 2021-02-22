@@ -2,4 +2,4 @@
 
 
 
-### Building the dino game in a simple way.![](C:\Users\marilene\Desktop\Nova pasta\Developer Javascript gamer\Dinosaur-Game\dino.png)
+### Building the dino game in a simple way.
